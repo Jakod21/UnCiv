@@ -55,12 +55,13 @@
 		French:"Nombre de cité-état"
 		Simplified_Chinese:"城邦数量"
 		Russian:"Число городов-государств"
-		
+		Spanish:"Número de ciudades-estado"
 	}
 	
 	"No barbarians":{//it can be showed correct as usual, so I'm not translate it.
 		Italian:"Niente barbari"
-		French:"Pas de barbare"
+	        French:"Pas de barbare"
+                Spanish:"Sin bárbaros"
 		Simplified_Chinese:"无蛮族"
 		Russian:"Без варваров"
 	}
@@ -69,12 +70,14 @@
 		Italian:"Condizioni di Vittoria"
 		French: "Conditions de victoire"
 		Simplified_Chinese:"胜利方式"
+		Spanish:"Condiciones de victoria"
 		Russian:"Условия победы"
 	}
 
 	"Scientific": {//it can be showed correct as usual in chinese, so I'm not translate it.
 		Italian:"Scientifica"
 		French: "Scientifique"
+		Spanish:"Científico"
 		Simplified_Chinese:"科技胜利"
 		Russian:"Научная"
 	}
@@ -82,6 +85,7 @@
 	"Domination": {//it can be showed correct as usual in chinese, so I'm not translate it.
 		Italian:"Dominazione"
 		French: "Conquete"
+		Spanish:"Dominación"
 		Simplified_Chinese:"征服胜利"
 		Russian:"Завоевание"
 	},
@@ -89,6 +93,7 @@
 	"Cultural": {//it can be showed correct as usual in chinese, so I'm not translate it.
 		Italian:"Culturale"
 		French: "Culturelle"
+		Spanish:"Cultural"
 		Simplified_Chinese:"文化胜利"
 		Russian:"Культурная"
 	}
@@ -110,7 +115,7 @@
 	"Tiny":{
 		Italian:"Minuscola"
 		Romanian:"Micuț"
-		Spanish:"Micro"
+		Spanish:"Enano"
 		Simplified_Chinese:"极小"
 		German:"Winzig"
 		Russian:"Крошечный"
@@ -271,20 +276,24 @@
 		Italian:"IA"
 		Simplified_Chinese:"电脑"
 		Russian:"ИИ"
+		Spanish:"IA"
 	}
 
 	"Remove":{
 		Italian:"Rimuovi"
+		Spanish:"Eliminar"
 	}
 
 	"Random":{
 		Italian:"Casuale"
+		Spanish:"Aleatorio"
 	}
 	
 	"Human":{
 		Italian:"Umano"
 		Simplified_Chinese:"人类玩家"
 		Russian:"Человек"
+		Spanish:"Humano"
 	}
 	
 	"Hotseat":{
@@ -297,79 +306,94 @@
 		Italian:"ID Utente"
 		Simplified_Chinese:"玩家Id"
 		Russian:"ID игрока"
+		Spanish:"Identificación(ID) de Usuario"
 	}
 	
 	"Click to copy":{
 		Italian:"Clicca per copiare"
 		Simplified_Chinese:"点击复制"
 		Russian:"Нажмите, чтобы скопировать"
+		Spanish:"Haga clic para copiar"
 	}
 	
 	"Username":{
 		Italian:"Nome utente"
 		Simplified_Chinese:"玩家姓名"
 		Russian:"Пользователь"
+		Spanish:"Nombre de usuario"
 	}
 	
 	"Multiplayer":{
 		Simplified_Chinese:"多人游戏"
 		Italian:"Multigiocatore"
 		Russian:"Сетевая игра"
+		Spanish:"Multijugador"
 	}
 	
 	"Could not download game!":{
 		Italian:"Impossibile scaricare partita!"
 		Russian:"Невозможно загрузить игру!"
+		Spanish:"¡No se pudo cargar la partida!"
 	}
 	
 	"Could not upload game!":{
 		Italian:"Impossibile caricare partita"
 		Russian:"Невозможно отправить игру!"
+		Spanish:"¡No se pudo subir la partida!"
 	}
 	
 	"Join Game":{
 		Italian:"Unisciti"
 		Simplified_Chinese:"加入游戏"
 		Russian:"Подключиться"
+		Spanish:"Unirse a la partida"
 	}
 	
 	"Invalid game ID!":{
 		Italian:"ID Partita non corretto"
 		Simplified_Chinese:"无效的游戏Id！"
 		Russian:"Некорректный ID игры!"
+		Spanish:"ID de partida incorrecta"
 	}
 	
 	"Copy User Id":{
 		Italian:"Copia ID Utente"
 		Simplified_Chinese:"复制玩家Id"
 		Russian:"Скопировать ID игрока"
+		Spanish:"Copiar la ID de usuario"
 	}
 	
 	"Copy Game Id":{
 		Italian:"Copia ID Partita"
 		Simplified_Chinese:"复制游戏Id"
 		Russian:"Скопировать ID игры"
+		Spanish:"Copiar ID de partida"
 	}
 	
 	"Set current user":{
 		Italian:"Imposta utente attuale"
+		Spanish:"Asignar el usuario actual"
 	}
 	
 	"Player ID from clipboard":{
 		Italian:"Copia ID giocatore dagli appunti"
+		Spanish:"ID de usuario del portapapales"
 	}
 	
 	/// tutorials for multiplayer
 	"To create a multiplayer game, check the 'multiplayer' toggle in the New Game screen, and for each human player insert that player's user ID.":{
 		Italian:"Per creare una partita multigiocatore, attiva la spunta su 'Multigiocatore' nella schermata Nuova Partita, e inserisci l'ID utente per del giocatore per ogni rispettivo giocatore umano"
+		Spanish:"Para crear una partida multijugador, compruebe el interruptor 'Multijugador' en la pantalla de Nueva Partida, e inserte la ID de cada jugador humano que desee añadir."
 	}
 	
-	"You can assign your own user ID there easily, and othr players can copy their user IDs here and send them to you for you to include them in the game.":{
+	"You can assign your own user ID there easily, and other players can copy their user IDs here and send them to you for you to include them in the game.":{
 		Italian:"Puoi assegnarvi facilmente il tuo ID Utente, e altri giocatori possono copiarvi il loro ID Utente e mandartelo per unirsi alla partita."
+		Spanish:"Ahí puede asignar su propia ID de usuario fácilmente, y otros jugadores pueden copiar sus ID de usuario aquí y enviárselas para que usted les añada en la partida."
 	}
 	
 	"Once you've created your game, enter this screen again to copy the Game ID and send it to the other players.":{
 		Italian:"Una volta creata la tua partita, ritorna in questa schermata per copiare l'ID Partita e mandala ad altri giocatori."
+		Spanish:"Una vez que haya creado su partida, vuelva a entrar a esta pantalla para copiar la ID de la partida y enviarla a otros jugadores."
 	}
 	
 	"Players can enter you game by copying the game ID to the clipboard, and clicking on the Join Game button":{
